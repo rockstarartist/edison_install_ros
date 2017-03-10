@@ -11,7 +11,8 @@ Built and tested on OS X.
 
 ## Instructions
 1. Install Ubilinux on Intel Edison
-  - See this guide to install Ubilinux on Intel Edison: <TODO>
+  - See this guide to install Ubilinux on Intel Edison: 
+    https://learn.sparkfun.com/tutorials/loading-debian-ubilinux-on-the-edison
 - Connect the Edison to the host machine via both USB cables
 - Clone this repository somewhere on the host machine
   - `git clone https://github.com/c-h-/edion_install_ros.git`
